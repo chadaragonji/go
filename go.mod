@@ -1,3 +1,3 @@
-module github.com/koyeb/example-golang
+module github.com/chadaragonji/go
 
 go 1.19
